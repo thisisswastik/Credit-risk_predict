@@ -12,6 +12,6 @@ The Credit Risk Prediction Model is designed to classify customers as either "Go
 
 ## Features
 - Predicts credit risk based on input features such as age, sex, job type, housing status, saving accounts, checking accounts, credit amount, duration, and purpose.
-- Uses Logistic Regression, Random Forest, and SVM models for prediction.
+- Uses Logistic Regression and Random Forest models for prediction.
 - Deployed using Streamlit for an interactive web application.
 
